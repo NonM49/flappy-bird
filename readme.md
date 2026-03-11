@@ -59,7 +59,7 @@ python main.py
 
 Avoid the pipes and try to get the highest score possible.
 
-🎓 What I Learned
+## What I Learned
 
 - How to structure a game loop using Pygame
 
